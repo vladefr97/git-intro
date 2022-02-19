@@ -2,7 +2,7 @@ class ClassA{
   constructor() {
   }
   getSomeData(){
-    return ""
+    return "sssss"
   }
   printHello(){
     console.log('Hello, world!')
